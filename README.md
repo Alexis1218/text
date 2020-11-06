@@ -1,4 +1,3 @@
 # CHILECODES
-´´´python
-  def
+```javascript
 ´´´
