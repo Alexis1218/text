@@ -35,4 +35,4 @@ python mange.py migrate
 ```
 Migrar tablas creadas
 **negro**
-
+**blanco**
