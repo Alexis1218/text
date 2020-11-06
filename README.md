@@ -34,6 +34,4 @@ Crear tablas
 python mange.py migrate
 ```
 Migrar tablas creadas
-**negro**
-**blanco**
-https://es.wikipedia.org/wiki/Traducci%C3%B3n
+nada mas[hola] (https://www.youtube.com/watch?v=tg50ia27AdQ)
