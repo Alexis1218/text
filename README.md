@@ -1,4 +1,0 @@
-# CHILECODES
-```javascript
- dfe
-´´´
