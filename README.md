@@ -34,5 +34,5 @@ Crear tablas
 python mange.py migrate
 ```
 Migrar tablas creadas
-
+**negro**
 
